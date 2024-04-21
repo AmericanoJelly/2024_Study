@@ -1,0 +1,56 @@
+1.관계해석
+  관계대수 : 절차적
+  관계해석 : 비절차적
+
+2 1)IDEA 2)SKIPJACK
+3 단가 > (SELECT SUM(단가) FROM 제품 WHERE 제조사='H')
+4.  null을 제외하고 4
+  1 2 n
+  2 3 6
+  4 6 3
+  5 n 3
+  3 5 5
+
+5.vpn
+6. ISP
+7. -8
+8. 2
+   a[0].n = 0
+   a[0].g=1
+
+   a[1].n= 1
+   a[1].g=2
+
+   a[2].n = 2
+   a[2].g = 3
+9.128, 62
+10. 1) 베타테스트 2) 알파테스트
+11.회기테스트 Regression Test - 소프트웨어 수정으로인해 발생할 수있는 오류를 검출하는 소프트웨어 테스트
+12.π = project 
+    select TTL from employee
+13. REMEMBER AND STR
+14.
+  (1) IGP
+  (2) EGP
+  (3) OSPF
+  (4) BGP
+  IGP: Interior Gateway Protocol, 동일 그룹 내 라우팅 정보를 교환할 때 사용하는 프로토콜
+  EGP: Exterior Gateway routing Protocol, 다른 그룹과 라우팅 정보를 교환하는 프로토콜
+  OSPF: Open Shortest Path First, IP 네트워크를 위해 개발되고 SPF(Shortest Path First) 알고리즘을 기반으로 하는 링크 상태 라우팅 프로토콜
+  BGP: Border Gateway Protocol, 서로 다른 조직의 네트워크를 연결할 때 사용하는 라우팅 프로토콜
+
+15.
+16. 22
+17.
+18.
+  1. Full
+  2. Partial
+  3. Transitive
+19.http/hypertext/html
+20.2,3 (fan-in, fan-out의 정의는 숫자임)
+
+
+
+
+
+
