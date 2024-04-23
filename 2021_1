@@ -3,3 +3,10 @@
   RARP(Reverse ARP) → MAC주소를 IP주소로 변환 (물리적 주소를 논리적 주소로)
 ２）　물리，개념，논리
 ３）　기능적요구사항　／　비기능적　요구사항
+４）WSDL (Web Service Description Language)
+  XML + 언어 = WSDL
+  XML + 프로토콜 = SOAP
+  XML + JAVA = AJAX
+  XML + 검색 = UDDI
+  XML + 대체 = JSON
+５）
