@@ -1,0 +1,5 @@
+1)　RARP (Reverse Address Resolution Protocol)
+  ARP → IP주소를 MAC주소로 변환 (논리주소를 물리적주소로)
+  RARP(Reverse ARP) → MAC주소를 IP주소로 변환 (물리적 주소를 논리적 주소로)
+２）　물리，개념，논리
+３）　기능적요구사항　／　비기능적　요구사항
